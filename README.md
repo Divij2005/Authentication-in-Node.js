@@ -53,5 +53,5 @@ The project ensures:
 
 1. 📥 **Clone repository**  
    ```bash
-   git clone https://github.com/divij2005/auth-assignment.git
-   cd auth-assignment
+   git clone https://github.com/Divij2005/authentication-in-node.js.git
+   cd authentication-in-node.js
